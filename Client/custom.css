@@ -1,0 +1,87 @@
+.login-container{
+  padding: 6rem 6rem;
+}
+
+.login-form-elements{
+  justify-content: center;
+  display: flex;
+  flex-direction: column
+}
+
+.login-container .row div h3{
+  margin:13%;
+}
+
+.error{
+  color:red;
+}
+
+.signup-success{
+  color:green;
+}
+
+.hero-slider .hero-text {
+    padding: 0 30px;
+    margin-top: 100px;
+    width: 600px;
+}
+
+.hero-slider .single-slider {
+	background-image:linear-gradient(to bottom, rgb(26, 26, 26, 0.5), rgb(26, 26, 26, 0.5)), url('images/18731152.jpg');
+}
+
+.hero-slider .hero-text p {
+	color: #fff;
+  text-shadow: 1px 1px #0d0d0d;
+}
+
+.hero-slider .hero-text h1 {
+	text-shadow: 1px 1px #0d0d0d;
+}
+
+.category_select{
+  display: inline;
+}
+
+.single-product .product-img a img {
+	height: 370px;
+}
+
+.product-details{
+  line-height: 25px;
+  padding: 4%;
+  color: #757575;
+}
+
+.product-details .detail-section h2,h6{
+  display: inline-block;
+}
+
+.product-details .detail-section input{
+  width:20%;
+}
+
+.product-details .detail-section button{
+  color: #fff;
+  background: #333;
+  padding: 13px 30px;
+  line-height: initial;
+  border: none;
+  height: auto;
+}
+.product-details .detail-section button:hover{
+  color: #fff;
+  background: #F7941D;
+  padding: 13px 30px;
+  line-height: initial;
+  border: none;
+  height: auto;
+}
+
+.quantity-input{
+  width:12px;
+}
+
+.header.shop .search-bar input {
+	width: 500px;
+}
